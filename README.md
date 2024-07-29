@@ -1,4 +1,4 @@
-# Career Essentials in Project Management by Microsoft and LinkedIn
+# Career Essentials in Project Management by Microsoft and LinkedIn 
 
 This repository contains files and working details for the "Career Essentials in Project Management" course by Microsoft and LinkedIn. The course provides comprehensive guidance on managing projects effectively, from simple to complex, and covers best practices, project management tools, and software usage.
 
